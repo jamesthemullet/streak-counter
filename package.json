@@ -13,7 +13,7 @@
     "dev": "microbundle watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
-  "name": "@~jamesthemullet/streak-counter",
+  "name": "@jamesthemullet/streak-counter",
   "version": "0.0.1",
   "repository": {
     "type": "git",
