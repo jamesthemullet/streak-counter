@@ -14,7 +14,7 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "name": "@jamesthemullet/streak-counter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/jamesthemullet/streak-counter"
